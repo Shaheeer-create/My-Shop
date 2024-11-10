@@ -6,7 +6,7 @@ export default function ContactForm() {
     <section className="contact-section">
       <div className="contact-container">
         <h2>Contact Me</h2>
-        <p className="contact-intro">I'd love to hear from you! Feel free to reach out using the form below.</p>
+        <p className="contact-intro">Id love to hear from you! Feel free to reach out using the form below.</p>
         
         <form className="contact-form"   action="https://formspree.io/f/mwpkbppw"
   method="POST"

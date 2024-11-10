@@ -37,7 +37,7 @@ const womenItems = [
 export default function WomenSection() {
   return (
     <section className="women-section">
-      <h2>Women's Collection</h2>
+      <h2>Womens Collection</h2>
       <div className="women-grid">
         {womenItems.map((item) => (
           <div key={item.id} className="women-item">

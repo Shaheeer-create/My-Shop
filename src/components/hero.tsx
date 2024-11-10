@@ -13,7 +13,7 @@ export default function Hero() {
       <main>
         <h1>Welcome to Our Modern Site</h1>
         <p>
-          Discover our exclusive collection, designed with a blend of style, elegance, and comfort. Dive into our men’s and women’s sections for a unique shopping experience!
+          Discover our exclusive collection designed with a blend of style, elegance, and comfort. Dive into our mens and womens sections for a unique shopping experience
         </p>
         <Link href='/men'>
         <button>Explore Now</button>
